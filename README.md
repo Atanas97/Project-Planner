@@ -2,6 +2,9 @@
 
 Project planner app that combines VueJS fundamentals to create an intuitive project planner app with full on edit, delete and completion state toggle.
 
+## Screenshot
+<img src="public/screenshot.png">
+
 ## Project setup
 
 ```
